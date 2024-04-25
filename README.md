@@ -6,7 +6,9 @@ Here, you'll discover a concise yet comprehensive report delving into the world 
 
 ## What's inside?
 
-In this repository you can find the short report that contains some basic info about Prison Break TV show, like:
+In this repository you can find the short report both in .ipynb and .html file that contains some basic info about Prison Break TV show, like:
 * a brief description including main plot synopsis, characters, and so on,
 * a summary of rating,
 * a few charts related to views.
+
+This repository was created as a homework assignment for Reproducible Research classes at the University of Warsaw, Faculty of Economic Sciences.
